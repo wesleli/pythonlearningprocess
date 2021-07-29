@@ -1,0 +1,11 @@
+import turtle
+turtle.color('blue')
+turtle.forward(30)
+turtle.left(90)
+turtle.forward(30)
+turtle.left(30)
+turtle.left(30)
+turtle.left(30)
+turtle.forward(30)
+turtle.left(90)
+turtle.forward(30)
